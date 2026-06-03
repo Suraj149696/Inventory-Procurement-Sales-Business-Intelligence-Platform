@@ -1,7 +1,61 @@
+# =========================
+# VIRTUAL ENVIRONMENT
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# PYTHON CACHE
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# JUPYTER NOTEBOOKS
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# LARGE DATA FILES (OPTIONAL - YOU REQUESTED)
+# =========================
+data/raw/
+data/cleaned/
+*.csv
+
+# =========================
+# POWER BI FILES (YOU REQUESTED)
+# =========================
 powerbi/Retail_Inventory_Analytics.pbix
 executive_dashboard.pbix
 
-data/raw/
-data/cleaned/
+# =========================
+# LOG FILES
+# =========================
+*.log
 
-*.csv
+# =========================
+# ENV FILES (SECURITY)
+# =========================
+.env
+
+# =========================
+# IDE / EDITORS
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# DISTRIBUTION / BUILD
+# =========================
+dist/
+build/
+*.egg-info/
