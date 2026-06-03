@@ -1,45 +1,6 @@
-# Retail Inventory & Sales Analytics
 
-## Project Overview
+<<<<<<< HEAD
 
-End-to-end analytics project using Python, MySQL, and Power BI to analyze inventory, sales, vendor performance, and profitability.
+=======
 
-## Business Objectives
-
-- Inventory Optimization
-- Vendor Performance Analysis
-- Sales Analytics
-- Profitability Analysis
-- Procurement Insights
-
-## Tools Used
-
-- Python
-- MySQL
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
-
-## Dashboards
-
-- Executive Dashboard
-- Sales Dashboard
-- Inventory Dashboard
-- Vendor Dashboard
-- Profitability Dashboard
-
-## Key Findings
-
-- Identified dead stock products
-- Evaluated vendor dependency
-- Analyzed inventory turnover
-- Measured profitability by product and vendor
-
-## Project Structure
-
-(Add folder structure)
-
-## Author
-
-Suraj Jagtap
+>>>>>>> 434abe2293f9a504635b027d0999c3fa0d56ae11
