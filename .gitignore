@@ -24,12 +24,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# =========================
-# LARGE DATA FILES (OPTIONAL - YOU REQUESTED)
-# =========================
-data/raw/
-data/cleaned/
-*.csv
+
 
 # =========================
 # POWER BI FILES (YOU REQUESTED)
