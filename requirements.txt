@@ -1,0 +1,42 @@
+# Data Manipulation
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Database Connectivity
+sqlalchemy
+pymysql
+
+# Jupyter Notebooks
+jupyter
+ipykernel
+
+# Statistical Analysis
+scipy
+statsmodels
+
+# Machine Learning (Optional for Advanced Analysis)
+scikit-learn
+
+# Excel Support
+openpyxl
+xlsxwriter
+
+# Date & Time Handling
+python-dateutil
+
+# Progress Bars
+tqdm
+
+# Missing Value Visualization
+missingno
+
+# Power BI Export Support
+pyarrow
+
+# Utilities
+requests

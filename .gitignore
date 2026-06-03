@@ -1,0 +1,7 @@
+powerbi/Retail_Inventory_Analytics.pbix
+executive_dashboard.pbix
+
+data/raw/
+data/cleaned/
+
+*.csv
