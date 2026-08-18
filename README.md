@@ -280,13 +280,6 @@ Retail-Inventory-Sales-Analytics/
 - **Vendor concentration risk** — top 5 vendors dominate procurement
 - **Store imbalance** — Store 81 operates at a loss; top stores drive majority of profit
 
-### 🚀 Strategic Recommendations
-1. **Inventory** — Implement ABC-based dynamic reorder points; liquidate dead stock
-2. **Products** — Eliminate/reprice loss-making SKUs; focus on top 20% revenue drivers
-3. **Vendors** — Diversify supplier base; renegotiate freight contracts with top vendors
-4. **Stores** — Benchmark underperformers against Store 76; realign inventory allocation
-5. **Forecasting** — Deploy ARIMA / Prophet models for seasonal demand prediction
-6. **Analytics** — Build SKU-level profit forecasting and automated margin alerts in Power BI
 
 ---
 
